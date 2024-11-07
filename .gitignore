@@ -1,0 +1,14 @@
+.vscode/
+.idea/
+.temp/
+vendor/
+undecided/
+node_modules/
+composer.lock
+package.lock
+pnpm-lock.yaml
+
+*.zip
+*.rar
+
+*.url
